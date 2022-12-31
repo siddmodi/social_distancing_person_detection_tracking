@@ -1,3 +1,8 @@
+https://user-images.githubusercontent.com/63842900/210128566-5c17d931-1f30-4fd5-b633-46214a900481.mp4
+
+https://user-images.githubusercontent.com/63842900/210128689-d20984aa-4c74-4d95-9e99-4cea68ae0bc9.mp4
+
+
 1. Track people and assign them unique id in a video file :
 
 • I am using centroid tracking algorithm (They keep on tracking the coordinates of the object in the
